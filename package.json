@@ -11,6 +11,9 @@
     "url": "git+https://github.com/nikos-testing/public-design-system.git"
   },
   "author": "Nikos",
+  "publishConfig": {
+    "@nikos-testing:registry": "https://npm.pkg.github.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nikos-testing/public-design-system/issues"
